@@ -40,9 +40,8 @@ There is no shortage of free courses on the internet, which makes it genuinely h
 
 ## What To Do
 
-Each week has curated resources structured day by day. Go through them, complete the graded assignments, submit via GitHub, and attempt the weekly quiz. Mentors are available on Discord if you get stuck.
-
-> Follow the content consistently and you will be fine.
+SoM is about making learning fun and interactive. We have a dedicated Discord server where you can interact with your peers, ask questions, and collaborate on projects. We also have a dedicated team of mentors who will guide you through your journey and help you with any doubts you may have.
+>So it's about learning, collaborating, and having fun! Just follow the course deligently and you will be good to go!
 
 ## Kaggle Hackathons
 
@@ -62,5 +61,9 @@ A few ways to contribute to Summer of ML:
 
 ## Acknowledgements
 
-Thanks to the creators behind CodeBasics, Corey Schafer, StatQuest, 3Blue1Brown, Kaggle, and the many other channels and blogs whose material forms the core of this program.
+We are grateful to all the external material providers and websites that have helped us create this course. We would also like to thank our mentors for their guidance and support.
 
+
+<p align="center">
+  <img src="https://github.com/bsoc-bitbyte/Summer-of-ML-2026/blob/main/logo.png" alt="SOM Logo" />
+</p>
